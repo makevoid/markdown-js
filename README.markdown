@@ -3,6 +3,10 @@ markdown-js
 
 ##  [this fork is for clientside use]
 
+hmmm.. it's harder than I thought, there are a lot more changes than haml-js and sass-js :D
+send me a message if you made it and you want to share the code!
+but I think I will do it someday and I will remove these lines :p
+
 
 Yet another markdown parser, this time for JavaScript. There's a few
 options that precede this project but they all treat markdown to HTML
